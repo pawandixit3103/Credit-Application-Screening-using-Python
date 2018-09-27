@@ -8,3 +8,4 @@ A predictive model that classifies credit card applicants or loan applicants in 
 2. It also contains two(2) .ipynb jupiter notebook file where the actual classification code is written. In one of the files classification is done using logistic Regression and in other file it is done using decision trees.
 3. It has two(2) .xlsx files which contains the actual credit history information. 1 file contains missing values and null values, the other file is a cleaned version.
 4. Contains a pdf file called Data Dictionary, which has information about all the factors in the data.
+5. Contains ten (10) .png files that are generated when making decision trees. These files are DTs with classification and splitting criterias for multiple depths ranging from 1 to 10
